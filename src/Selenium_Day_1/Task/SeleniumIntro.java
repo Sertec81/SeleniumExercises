@@ -48,7 +48,7 @@ public class SeleniumIntro {
         Thread.sleep( 1000 );
         driver.findElement( By.cssSelector( "button[type='submit']" ) ).click();
         Thread.sleep( 1000 );
-       //driver.quit();
+       driver.quit();
 
     }
 

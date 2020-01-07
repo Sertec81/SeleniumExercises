@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="geckodriver">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Desktop/Selenium documents/geckodriver" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
